@@ -1,0 +1,135 @@
+.topContainer{
+  text-align: center;
+  background-color: #C2FFF9;
+  padding: 100px;
+}
+
+.bottomCompartment{
+  background-color: #C2FFF9;
+  padding: 10px;
+}
+
+.middleCompartment{
+  padding: 20px;
+}
+
+h1{
+  margin:0;
+  color: #009DAE;
+  font-family: Sacramento,cursive;
+  font-size: 562.5%;
+  line-height: 2;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h2{
+  color: #009DAE;
+  font-size: 2rem;
+  font-weight: normal;
+  font-style: 'Monteserrat',sans-serif;
+}
+
+h3{
+  color: #009DAE;
+  font-family: 'Monteserrat',sans-serif;
+}
+
+p{
+  font-family: 'Monteserrat',sans-serif;
+  line-height: 2;
+}
+.cloud1{
+  position: absolute;
+  top: 50px;
+  right:20%;
+  width: 15%
+}
+
+.cloud2{
+  position: absolute;
+  bottom: 300px;
+  left: 20%;
+  width: 15%;
+}
+
+.profilepic{
+  width: 15%;
+}
+
+h3{
+  color: #11999E;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #11999e;
+  margin: auto 40px auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.work{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.football{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: thick;
+  width: 5%;
+  color: #B4C6A6;
+}
+
+.btn{
+  font-family: 'Monteserrat',sans-serif;
+  color: white;
+  background-color: #009DAE;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.contact-me{
+  margin: 50px auto 50px auto;
+
+}
+
+.btn:hover{
+  background-color: green;
+}
+
+.footer-link:hover{
+  color: #FEA82F;
+}
+
+.copyright{
+  margin-bottom: 0px;
+  color: white;
+}
+
+.profile-statement{
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.mountain{
+  position: relative;
+  top: 143px;
+  width: 70%;
+}
